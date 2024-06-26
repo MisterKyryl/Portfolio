@@ -48,7 +48,6 @@ body {
 	display: flex;
 	justify-content: flex-end;
 	flex-direction: column-reverse;
-	row-gap: 1.25rem;
 	border-radius: 10px;
 	background-color: #343945;
 }
