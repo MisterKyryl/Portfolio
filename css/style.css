@@ -87,6 +87,11 @@ body {
 	object-fit: cover;
 	border-radius: 10px 10px 0 0;
 }
+@media (any-hover: hover){
+	.portfolio__image img:hover{
+		filter: brightness(50%);
+	}
+}
 @media (max-width:480px) {
 	.portfolio__link {
 		font-size: 1rem;
